@@ -33,11 +33,11 @@ In the words of William Wordsworth; poetry is the sponteneous overflow of powerf
 
 
 ## 1. Poetry One 
-### Title : A Cry Of Passion
+#### Title : A Cry Of Passion
 
-###                   To my coy mistress,
-###                   April 15, 1999,
-###                   Dear Mistress.
+####                   To my coy mistress,
+####                   April 15, 1999,
+####                   Dear Mistress.
                        Don't ask me what I want to say
                        My breath grows thinner
                        These frail heart of mine grows stronger
@@ -63,15 +63,18 @@ In the words of William Wordsworth; poetry is the sponteneous overflow of powerf
                        Cause my words died with a broken heart.
                        From a broken heart 
 
- ###                                                                               June 26, 1998
- ###                                                                               Ebire M. Folayemi 
+
+###                                                                               June 26, 1998
+###                                                                               Ebire M. Folayemi 
+
 
 ![Loml](https://user-images.githubusercontent.com/84279094/118401716-a072ef00-b65e-11eb-8803-dbcbb24fb011.jpg)
 
 
 
 ## 2. Poetry Two
-### TITLE: BLOOD THAT MAKES
+#### TITLE: BLOOD THAT MAKES
+
 
                       It walks up and down the street;
                       Years after its demise,
@@ -98,9 +101,10 @@ In the words of William Wordsworth; poetry is the sponteneous overflow of powerf
                       Little we know, we are ready to gain times two !
                       O blood that makes,
                       Lead us back to the cake.
-                      
-###                                                                           Date: 4th OF August 2017
-###                                                                           Quote : if the pass becomes a stranger, then its value is lost
+   
+   
+####                                                                           Date: 4th OF August 2017
+####                                                                           Quote : if the pass becomes a stranger, then its value is lost
 
 
 
