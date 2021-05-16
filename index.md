@@ -5,7 +5,7 @@ Begin your journey to literary prowess and great writing skills
 
 
 ## Menu
-1. [Homepage]()
+1. [Homepage](https://github.com/Micayowrite/Index/blob/gh-pages/index.homepage)
 2. [Services]()
 3. [Books]()
 4. [Publications]()
